@@ -16,6 +16,24 @@ Please feel free to run and look at the results in "train-lora.ipynb" for furthe
 
 Notice: You can access my trained LoRA adapters from this Github repo or my Hugging Face repo at https://huggingface.co/kevin-chu/sd15-lora-geralt-of-rivia
 
+## Results
+
+1. Pixel Style Geralt (LoRA + LoRA)
+
+![pixel-style] https://raw.githubusercontent.com/<FalKon1256>/<UBC-EECE-570>/<main>/.github/pixel-style-merge-with-lora.png
+
+2. Anime Style Geralt (LoRA + Checkpoint)
+
+![anime-style] https://raw.githubusercontent.com/<FalKon1256>/<UBC-EECE-570>/<main>/.github/anime-style-merge-with-checkpoint.png
+
+3. Comic Style Geralt (LoRA + Checkpoint)
+
+![comic-style] https://raw.githubusercontent.com/<FalKon1256>/<UBC-EECE-570>/<main>/.github/comic-style-merge-with-checkpoint.png
+
+4. Realistic Style Geralt (LoRA + Checkpoint)
+
+![realistic-style] https://raw.githubusercontent.com/<FalKon1256>/<UBC-EECE-570>/<main>/.github/realistic-style-merge-with-checkpoint.png
+
 ## Main Libraries
 • Language: Python
 

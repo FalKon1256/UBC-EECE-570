@@ -20,19 +20,19 @@ Notice: You can access my trained LoRA adapters from this Github repo or my Hugg
 
 1. Pixel Style Geralt (LoRA + LoRA)
 
-![Pixel Style Geralt (LoRA + LoRA)](https://raw.githubusercontent.com/FalKon1256/UBC-EECE-570/main/results/pixel-style-merge-with-lora.png)
+![pixel-style](https://raw.githubusercontent.com/FalKon1256/UBC-EECE-570/main/results/pixel-style-merge-with-lora.png)
 
 2. Anime Style Geralt (LoRA + Checkpoint)
 
-![anime-style] https://raw.githubusercontent.com/<FalKon1256>/<UBC-EECE-570>/<main>/.github/anime-style-merge-with-checkpoint.png
+![anime-style](https://raw.githubusercontent.com/FalKon1256/UBC-EECE-570/main/results/anime-style-merge-with-checkpoint.png)
 
 3. Comic Style Geralt (LoRA + Checkpoint)
 
-![comic-style] https://raw.githubusercontent.com/<FalKon1256>/<UBC-EECE-570>/<main>/.github/comic-style-merge-with-checkpoint.png
+![comic-style](https://raw.githubusercontent.com/FalKon1256/UBC-EECE-570/main/results/comic-style-merge-with-checkpoint.png)
 
 4. Realistic Style Geralt (LoRA + Checkpoint)
 
-![realistic-style] https://raw.githubusercontent.com/<FalKon1256>/<UBC-EECE-570>/<main>/.github/realistic-style-merge-with-checkpoint.png
+![realistic-style](https://raw.githubusercontent.com/FalKon1256/UBC-EECE-570/main/results/realistic-style-merge-with-checkpoint.png)
 
 ## Main Libraries
 • Language: Python

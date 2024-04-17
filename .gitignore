@@ -127,6 +127,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+env-lora/
+
+# Dependencies
+diffusers/
+kohya_ss/
 
 # Spyder project settings
 .spyderproject

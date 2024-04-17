@@ -20,7 +20,7 @@ Notice: You can access my trained LoRA adapters from this Github repo or my Hugg
 
 1. Pixel Style Geralt (LoRA + LoRA)
 
-![pixel-style] https://raw.githubusercontent.com/<FalKon1256>/<UBC-EECE-570>/<main>/.github/pixel-style-merge-with-lora.png
+![Pixel Style Geralt (LoRA + LoRA)](https://raw.githubusercontent.com/FalKon1256/UBC-EECE-570/main/results/pixel-style-merge-with-lora.png)
 
 2. Anime Style Geralt (LoRA + Checkpoint)
 

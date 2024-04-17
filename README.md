@@ -8,7 +8,11 @@ This repo is for the final project of EECE 570, which is a research project on s
 
 "Geralt of Rivia", a famous character from "The Witcher" series, is the sample I want my LoRA adapter to learn, expecting to generate different styles of Geralt by merging my LoRA adapter with other checkpoint models and LoRA adapters.
 
-I used the LoRA technique to fine-tune the stable diffusion (v1.5) model as the base model, please feel free to look at the results in "train-lora.ipynb" for further details!
+The LoRA technique is used to fine-tune the stable diffusion (v1.5) model as the base model in this project.
+
+Taking the "kohya_ss" package as reference, I used the "train_network.py" which is a standard training script for LoRA training tasks.
+
+Please feel free to run and look at the results in "train-lora.ipynb" for further details! An unrun version is also provided as "train-lora-un_run.ipynb".
 
 Notice: You can access my trained LoRA adapters from this Github repo or my Hugging Face repo at https://huggingface.co/kevin-chu/sd15-lora-geralt-of-rivia
 

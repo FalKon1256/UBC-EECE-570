@@ -10,11 +10,15 @@ This repo is for the final project of EECE 570 - Fundamentals of Visual Computin
 
 The LoRA technique is used to fine-tune the stable diffusion (v1.5) model as the base model in this project.
 
-Taking the "kohya_ss" package as reference, I used the "train_network.py" which is a standard training script for LoRA training tasks.
+Taking the "kohya_ss" package as reference, I used the [train_network.py](https://github.com/FalKon1256/UBC-EECE-570/blob/main/train_network.py) which is a standard training script for LoRA training tasks.
 
-Please feel free to run and look at the results in "train-lora.ipynb" for further details! An unrun version is also provided as "train-lora-un_run.ipynb".
+Please feel free to run and look at the results in [train-lora.ipynb](https://github.com/FalKon1256/UBC-EECE-570/blob/main/train-lora.ipynb) and [project report]() for further details! An unrun version is also provided as [train-lora-un_run.ipynb](https://github.com/FalKon1256/UBC-EECE-570/blob/main/train-lora-un_run.ipynb).
 
-Notice: You can access my trained LoRA adapters from this Github repo or my Hugging Face repo at https://huggingface.co/kevin-chu/sd15-lora-geralt-of-rivia
+Notice: You can access my trained LoRA adapters from this Github repo or [My Hugging Face Repo](https://huggingface.co/kevin-chu/sd15-lora-geralt-of-rivia).
+
+## Demo
+
+The [Demo Video](https://drive.google.com/file/d/1SCE8mw58JywyqSp9P62r3e5j8Z1TZQ9E/view?usp=drive_link) for dataset creation, training, and testing of this project.
 
 ## Results
 

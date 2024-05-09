@@ -1,10 +1,10 @@
-# UBC - EECE 570 - Fundamentals of Visual Computing
+# Image Style Transfer
 
 ## Semester
 2023 Winter Session Term 2
 
 ## Outline
-This repo is for the final project of EECE 570, which is a research project on style merging tasks with diffusion models.
+This repo is for the final project of EECE 570 - Fundamentals of Visual Computing, which is a research project on latent diffusion models (LDMs) for text-to-image generation tasks of style transfer and merging.
 
 "Geralt of Rivia", a famous character from "The Witcher" series, is the sample I want my LoRA adapter to learn, expecting to generate different styles of Geralt by merging my LoRA adapter with other checkpoint models and LoRA adapters.
 
